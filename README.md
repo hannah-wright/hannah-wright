@@ -49,12 +49,7 @@
       engineer. I do both to simplify the process.
 
 
-    ── TRANSMISSION ─────────────────────────────────────────
-
-      linkedin.com/in/-hannah-wright-
-
-
 ─────────────────────────────────────────────────────────────────
 ```
 
-**Connect**: [linkedin.com/in/-hannah-wright-](https://www.linkedin.com/in/-hannah-wright-)
+Feel free to get in touch here: [linkedin.com/in/-hannah-wright-](https://www.linkedin.com/in/-hannah-wright-)
