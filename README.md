@@ -47,7 +47,7 @@
       Former startup founder. The role I fill
       traditionally required a frontend developer + a
       conversion-focused, data-driven marketing engineer.
-      I do both, so that things are shipped faster.
+      I do both, so that things are shipped faster. :-)
 
 
 ─────────────────────────────────────────────────────────────────
