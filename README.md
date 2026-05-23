@@ -15,11 +15,11 @@
 
     ── CURRENT STACK ────────────────────────────────────────
 
-      React 18 / 19      TypeScript          Next.js 16
-      Tailwind v4        Vite                shadcn/ui
-      Supabase           Stripe              Vercel
-      Webflow            WordPress           HTML / CSS
-      Vitest             Sentry              Claude Code
+      Claude Code        React 18 / 19       TypeScript
+      Next.js 16         Tailwind v4         Vite
+      shadcn/ui          Supabase            Stripe
+      Vercel             Webflow             WordPress
+      HTML / CSS         Vitest              Sentry
 
 
     ── DOMAIN FOCUS ─────────────────────────────────────────
@@ -30,7 +30,7 @@
       Growth experimentation, A/B testing, CRO
       Conversion funnel instrumentation
       Landing pages, dashboards, in-product UI
-      AI integration: OpenAI (GPT-5, Whisper), Gemini, Anthropic
+      AI API integration: OpenAI (GPT-5, Whisper), Gemini, Anthropic
 
 
     ── RECENTLY SHIPPED ─────────────────────────────────────
