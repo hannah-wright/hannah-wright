@@ -19,7 +19,7 @@
       Tailwind v4        Vite                shadcn/ui
       Supabase           Stripe              Vercel
       Webflow            WordPress           HTML / CSS
-      Vitest             Sentry              Resend
+      Vitest             Sentry              Claude Code
 
 
     ── DOMAIN FOCUS ─────────────────────────────────────────
