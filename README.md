@@ -37,9 +37,9 @@
 
       BERNARD AI
       VC startup intelligence SaaS. End-to-end build:
-      auth, credit-based billing, scraping pipeline,
-      Gemini AI enrichment, faceted-search dashboard.
-      React, TypeScript, Vite, Supabase, Stripe, Sentry.
+      auth, scraping pipeline, Gemini AI enrichment,
+      faceted-search dashboard.
+      React, TypeScript, Vite, Supabase, Sentry.
 
 
     ── BACKGROUND ───────────────────────────────────────────
