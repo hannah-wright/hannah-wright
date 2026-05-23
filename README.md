@@ -44,10 +44,10 @@
 
     ── BACKGROUND ───────────────────────────────────────────
 
-      Former startup founder. The role I fill usually
-      requires a frontend developer and a conversion-
-      focused, data-driven marketing engineer. I do both
-      to simplify that process.
+      Former startup founder. The role I fill
+      traditionally required a frontend developer + a
+      conversion-focused, data-driven marketing engineer.
+      However, I do both to simplify that process. :-)
 
 
 ─────────────────────────────────────────────────────────────────
