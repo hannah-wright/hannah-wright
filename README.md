@@ -26,8 +26,8 @@
     ── DOMAIN FOCUS ─────────────────────────────────────────
 
       Frontend Engineer for B2B SaaS
-      Marketing Engineer  :  Marketing Developer
-      Webflow Developer  :  WordPress Developer
+      Marketing Engineer  //  Marketing Developer
+      Webflow Developer  //  WordPress Developer
       Growth experimentation, A/B testing, CRO
       Conversion funnel instrumentation
       Landing pages, dashboards, in-product UI
