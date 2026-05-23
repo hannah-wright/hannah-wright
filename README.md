@@ -30,7 +30,7 @@
       Growth experimentation, A/B testing, CRO
       Conversion funnel instrumentation
       Landing pages, dashboards, in-product UI
-      AI integration: Gemini, Anthropic
+      AI integration: OpenAI (GPT-5, Whisper), Gemini, Anthropic
 
 
     ── RECENTLY SHIPPED ─────────────────────────────────────
