@@ -8,9 +8,9 @@
 ─────────────────────────────────────────────────────────────────
 
 
-    > STATUS:    AVAILABLE FOR HIRE
-    > SEEKING:   FULL-TIME REMOTE
-    > UPTIME:    12 YRS SHIPPING
+    > STATUS:    Available for hire
+    > SEEKING:   Full-time remote
+    > UPTIME:    12 yrs shipping
 
 
     ── CURRENT STACK ────────────────────────────────────────
