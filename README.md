@@ -19,8 +19,7 @@
 
 
     > STATUS:    Available for hire
-    > SEEKING:   Full-time remote
-    > UPTIME:    12 yrs shipping
+    > SEEKING:   Full-time remote opportunities
 
 
     ── CURRENT STACK ────────────────────────────────────────
