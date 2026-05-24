@@ -12,8 +12,8 @@
 
   H A N N A H   W R I G H T
 
-  Frontend Developer  //  AI-First Developer
-  Marketing Engineer  //  Marketing Developer
+  Marketing Engineer  //  AI-First Developer
+  Frontend Developer  //  Marketing Developer
 
 ─────────────────────────────────────────────────────────────────
 
