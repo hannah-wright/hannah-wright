@@ -36,11 +36,10 @@
 
       Frontend Engineer for B2B SaaS
       Marketing Engineer  //  Marketing Developer
-      Webflow Developer  //  WordPress Developer
       Growth experimentation, A/B testing, CRO
       Conversion funnel instrumentation
       Landing pages, dashboards, in-product UI
-      AI API integration: OpenAI (GPT-5, Whisper), Gemini, Anthropic
+      API integrations: OpenAI (GPT-5, Whisper), Gemini, Anthropic
 
 
     ── RECENTLY SHIPPED ─────────────────────────────────────
