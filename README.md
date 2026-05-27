@@ -1,4 +1,4 @@
-➤➤ Feel free to get in touch here: [linkedin.com/in/-hannah-wright-](https://www.linkedin.com/in/-hannah-wright-)
+➤➤ LinkedIn: [linkedin.com/in/-hannah-wright-](https://www.linkedin.com/in/-hannah-wright-)
 
 ```
 *==========================================================*
