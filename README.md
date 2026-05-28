@@ -12,8 +12,8 @@
 
   H A N N A H   W R I G H T
 
-  Marketing Engineer  //  AI-First Developer
-  Frontend Developer  //  Marketing Developer
+  Marketing Engineer  //  Marketing Developer
+  AI-First Developer
 
 ─────────────────────────────────────────────────────────────────
 
@@ -33,8 +33,8 @@
 
     ── DOMAIN FOCUS ─────────────────────────────────────────
 
-      Frontend Engineer for B2B SaaS
-      Marketing Engineer  //  Marketing Developer
+      Marketing Engineer for B2B SaaS
+      Marketing Developer  //  AI-First Developer
       Growth experimentation, A/B testing, CRO
       Conversion funnel instrumentation
       Landing pages, dashboards, in-product UI
@@ -53,7 +53,7 @@
     ── BACKGROUND ───────────────────────────────────────────
 
       Former startup founder. The role I fill
-      traditionally required a frontend developer + a marketer.
+      traditionally required a developer + a marketer.
       I do both, so that things ship faster. :-)
 
 
