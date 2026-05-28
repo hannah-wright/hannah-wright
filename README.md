@@ -1,5 +1,3 @@
-➤➤ LinkedIn: [linkedin.com/in/-hannah-wright-](https://www.linkedin.com/in/-hannah-wright-)
-
 ```
 *==========================================================*
 |                                                    \_/   |
