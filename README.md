@@ -24,11 +24,8 @@
 
     ── CURRENT STACK ────────────────────────────────────────
 
-      Claude Code        React 18 / 19       TypeScript
-      Next.js 16         Tailwind v4         Vite
-      shadcn/ui          Supabase            Stripe
-      Vercel             Webflow             WordPress
-      HTML / CSS         Vitest              Sentry
+      Claude Code        Tailwind v4         Vercel
+      Webflow            WordPress           HTML / CSS
 
 
     ── DOMAIN FOCUS ─────────────────────────────────────────
@@ -44,7 +41,7 @@
     ── RECENTLY SHIPPED ─────────────────────────────────────
 
       BERNARD AI
-      VC startup intelligence SaaS. End-to-end build:
+      VC startup intelligence SaaS. End-to-end AI-assisted build:
       auth, scraping pipeline, Gemini AI enrichment,
       faceted-search dashboard.
       React, TypeScript, Vite, Supabase, Sentry.
