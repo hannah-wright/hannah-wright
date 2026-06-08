@@ -49,9 +49,8 @@
 
     ── BACKGROUND ───────────────────────────────────────────
 
-      Former startup founder. The role I fill
-      traditionally required a developer + a marketer.
-      I do both, so that things ship faster. :-)
+      The roles I fill traditionally required a developer +
+      a marketer. I do both, so things ship faster. :-)
 
 
 ─────────────────────────────────────────────────────────────────
