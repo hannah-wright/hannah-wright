@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/-hannah-wright-"><img src="LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" /></a>
+
 ```
 *==========================================================*
 |                                                    \_/   |
