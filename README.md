@@ -16,8 +16,8 @@
 
 ─────────────────────────────────────────────────────────────────
 
-    > STATUS:    Available for hire
-    > TYPE:   Full-time remote opportunities
+    > STATUS: Available for hire
+    > TYPE: Full-time remote opportunities
 
     ── CURRENT STACK ────────────────────────────────────────
 
