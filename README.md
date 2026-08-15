@@ -16,9 +16,6 @@
 
 ─────────────────────────────────────────────────────────────────
 
-    > STATUS: Available for hire
-    > TYPE: Full-time remote opportunities
-
     ── CURRENT STACK ────────────────────────────────────────
 
       Claude Code        Tailwind v4         Vercel
